@@ -28,7 +28,7 @@ h2 {
   color: black;
   font-style: oblique;
 }
-p {
+.style p ul {
   color: black;
   font: message-box;
 }
