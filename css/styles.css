@@ -8,15 +8,16 @@
   display: block;
   width: auto;
   height: auto;
+  margin: auto;
   float: left;
-  object-fit: contain;
 }
 .container {
   width: 10px;
   height: 10px;
+  box-sizing: border-box;
 }
 h1 {
-  color: darkslategray;
+  color: whitesmoke;
   font-size: 50px;
   text-align: center;
 }
@@ -37,3 +38,7 @@ p {
 .background {
   background-color: white;
 }
+body {
+  background-color: rgb(162, 173, 209);
+}
+]
