@@ -9,6 +9,9 @@ h1 {
 h2 {
   color: darkslateblue;
 }
+h3 {
+  font-size: medium;
+}
 .imgcontainer {
   width: 10px;
   height: 10px;
