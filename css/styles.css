@@ -2,19 +2,19 @@ body {
 background-color: rgb(162, 173, 209);
 }
 h1 {
-  color: whitesmoke;
+  color: rgb(10, 10, 10);
   font-size: 50px;
   text-align: center;
 }
 h2 {
   color: darkslateblue;
 }
-.container {
+.imgcontainer {
   width: 10px;
   height: 10px;
   box-sizing: border-box;
 }
-.img {
+.imgme {
   display: block;
   width: auto;
   height: auto;
@@ -22,26 +22,26 @@ h2 {
   float: left;
   padding-left: 60px;
 }
-.center {
+.centerme {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
 }
-.background {
+.backgroundme {
   background-color: white;
   border: 2px solid;
   border-color: black;
   padding: 8px;
 }
-.red {
+.redme {
   color: darkred;
 }
-.listfont li a {
+.listfontme li a {
   color: black;
   font-style: oblique;
 }
-.style p ul {
+.styleme p ul {
   color: black;
   font: message-box;
 }
