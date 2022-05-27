@@ -9,11 +9,10 @@ h1 {
 h2 {
   color: darkslateblue;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
+.container {
+  width: 10px;
+  height: 10px;
+  box-sizing: border-box;
 }
 .img {
   display: block;
@@ -23,19 +22,20 @@ h2 {
   float: left;
   padding-left: 60px;
 }
-.container {
-  width: 10px;
-  height: 10px;
-  box-sizing: border-box;
-}
-.red {
-  color: darkred;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 .background {
   background-color: white;
   border: 2px solid;
   border-color: black;
   padding: 8px;
+}
+.red {
+  color: darkred;
 }
 .font li a {
   color: black;
