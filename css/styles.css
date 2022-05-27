@@ -6,7 +6,9 @@
 }
 .img {
   width: 25%;
-  height: auto;
+  height: 25%;
+  float: left;
+  margin-left: 1px;
 }
 h1 {
   color: darkslategray;
@@ -25,4 +27,7 @@ p {
 }
 .red {
   color: darkred;
+}
+.background {
+  background-color: white;
 }
