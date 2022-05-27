@@ -1,0 +1,14 @@
+# Sandra's Portfolio Landing
+#### By: Sandra Tena
+#### A simple html website that helps users access my to my portfolio. 
+## Technologies Used
+* HTML
+* CSS
+## Description
+_This simple html website allows users to access my portfolio by listing the projects that I have created with links to view them on GitHub. The website also includes my name and an about me sections where users can read about my professional background, interests, hobbies, and skills along with a picture of myself and my husband._
+## Setup/Installation Requirements
+* Clone this repository to your desktop. 
+* Navigate to the top level of the directory. 
+* Open index.html in your browser. 
+## Known Bugs
+* Image size is too big. 
