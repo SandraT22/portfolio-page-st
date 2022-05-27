@@ -1,0 +1,25 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.img {
+  width: 25%;
+  height: auto;
+}
+h1 {
+  color: darkslategray;
+  font-size: 50px;
+}
+h2 {
+  color: darkslateblue;
+}
+.font li a {
+  color: black;
+  font-style: oblique;
+}
+p {
+  color: black;
+  font: message-box;
+}
