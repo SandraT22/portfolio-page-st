@@ -1,3 +1,14 @@
+body {
+background-color: rgb(162, 173, 209);
+}
+h1 {
+  color: whitesmoke;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  color: darkslateblue;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -17,14 +28,6 @@
   height: 10px;
   box-sizing: border-box;
 }
-.font li a {
-  color: black;
-  font-style: oblique;
-}
-.style p ul {
-  color: black;
-  font: message-box;
-}
 .red {
   color: darkred;
 }
@@ -34,14 +37,11 @@
   border-color: black;
   padding: 8px;
 }
-h1 {
-  color: whitesmoke;
-  font-size: 50px;
-  text-align: center;
+.font li a {
+  color: black;
+  font-style: oblique;
 }
-h2 {
-  color: darkslateblue;
-}
-body {
-  background-color: rgb(162, 173, 209);
+.style p ul {
+  color: black;
+  font: message-box;
 }
